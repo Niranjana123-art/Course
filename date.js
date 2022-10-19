@@ -1,3 +1,5 @@
+//hloooo
+
 exports.getToday = () => {
     let date = new Date();
     let days = ['sunday', 'monday', 'thuesday', 'wednesday', 'thursday', 'saturday']
